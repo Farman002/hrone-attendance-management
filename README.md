@@ -47,8 +47,8 @@ Adjust the structure above if your actual folders or filenames differ.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd candidate_kit
+git clone https://github.com/Farman002/hrone-attendance-management.git
+cd hrone-attendance-management
 ```
 
 ### 2. Create a virtual environment
